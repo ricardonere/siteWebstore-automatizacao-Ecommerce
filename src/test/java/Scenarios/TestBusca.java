@@ -21,7 +21,6 @@ public class TestBusca {
     }
     @Test
     public void testBusca()throws InterruptedException{
-
         buscaPage.digitarItem();
         buscaPage.clicarBusca();
         buscaPage.selecionarProduto();
